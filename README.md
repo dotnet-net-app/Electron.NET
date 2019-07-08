@@ -1,3 +1,10 @@
+
+***
+
+ [![Build SGet Download Manager](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://github.com/ElectronNET/Electron.NET) 
+
+---
+
 [![Electron.NET Logo](https://github.com/ElectronNET/Electron.NET/blob/master/assets/images/electron.net-logo.png)](https://github.com/ElectronNET/Electron.NET)
 
 [![donate](https://img.shields.io/badge/Donate-Donorbox-green.svg)](https://donorbox.org/electron-net)
